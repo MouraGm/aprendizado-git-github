@@ -1,0 +1,10 @@
+echo : para exibir mensagens;
+pwd : mostra em qual pasta você está;
+ls : lista todos os aqrquivos que estão no diretório atual;
+mkdir : cria uma nova pasta;
+cd : navega para dentro da pasta;
+cd .. : volta para a pasta acima/anterior;
+touch : cria um arquivo novo ou atualiza o arquivo existente.
+rm : remove o arquivo selecionado;
+rm -rf : remove a pasta selecionada;
+clear : limpa todos os comandos rodados.

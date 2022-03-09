@@ -1,0 +1,6 @@
+Branchs servem para desenvover features isoladas. A branch MASTER é a principal. É possível misturar as branchs com o comando MERGE.
+
+- Comandos:
+ git branch : mostra quais branchs existem no projeto;
+ git branch '_____' : cria uma nova branch;
+ git checkout '______' : roda a branch criada;

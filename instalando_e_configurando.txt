@@ -1,0 +1,6 @@
+Configuração do Git:
+
+username: git config --global user.name '--------'
+e-mail: git config --global user.email '-------'
+
+Para verificar se os dados estão corretos: git config list
